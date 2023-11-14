@@ -2,8 +2,6 @@
 ---
 🎉 **Welcome, Python Enthusiasts!** 🐍
 
-[Display: Exciting Visuals of Python Code]
-
 🚀 Today, we embark on an exciting journey to master the Python programming language. Whether you're a beginner, intermediate, or advanced coder, we've got a roadmap tailored just for you.
 
 ---
@@ -11,8 +9,6 @@
 **[Section 1: Python Coding Essentials]**
 
 📘 **1A. Basics: The Foundation**
-
-- [Visuals: Code snippets illustrating basic concepts]
 
   - Basic Syntax: The ABCs of Python.
   - Data types and variables: Understanding the building blocks.
@@ -24,8 +20,6 @@
 
 📈 **1B. Intermediate: Deepening Your Python Knowledge**
 
-- [Visuals: Diagrams and animations]
-
   - Object-Oriented Programming: Unleashing the power of classes and objects.
   - Arrays and Linked Lists: Exploring complex data structures.
   - Heaps, Stacks, and Queues: Understanding data storage.
@@ -35,8 +29,6 @@
   - Hash Tables: Mastering efficient data retrieval.
 
 🚀 **1C. Advanced: Pushing the Boundaries**
-
-- [Visuals: Advanced code snippets and animations]
 
   - List Comprehensions: Concise and powerful list manipulation.
   - Generators: Managing large datasets effortlessly.
@@ -52,8 +44,6 @@
 
 🌐 **2. Version Controls: Navigating GitHub and GitLab**
 
-- [Visuals: Screen recordings of version control processes]
-
   - GitHub vs. GitLab: Understanding the platforms.
   - Repository Creation: Setting up your coding space.
   - Committing Changes: Tracking your progress.
@@ -63,15 +53,9 @@
 
 ---
 
-Certainly! Let's add the last part to your script:
-
----
-
 **[Section 3: Frameworks]**
 
 🔨 **3. Frameworks: Building Robust Python Applications**
-
-- [Visuals: Framework logos, snippets of code]
 
   - Exploring the world of frameworks that make development a breeze.
   - [Framework 1] Introduction and key features.
@@ -84,8 +68,6 @@ Certainly! Let's add the last part to your script:
 
 🧪 **4. Testing Your Apps: Ensuring Code Reliability**
 
-- [Visuals: Testing tools and code snippets]
-
   - Unit Testing: Dive into unittest and PyTest.
   - Integration Testing: Ensuring smooth collaboration between components.
   - End-to-End Testing: Navigating web applications with Selenium and PyAutoGUI.
@@ -96,8 +78,6 @@ Certainly! Let's add the last part to your script:
 **[Section 5: Automation]**
 
 🤖 **5. Automation: Simplifying Repetitive Tasks**
-
-- [Visuals: Automation tools in action]
 
   - File Manipulation: Mastering Os, shutil, and pathlib.
   - GUI Automation: Streamlining tasks with PyAutoGUI.
@@ -110,8 +90,6 @@ Certainly! Let's add the last part to your script:
 
 💻 **6. Various IDE for Python Programming: Finding Your Coding Sanctuary**
 
-- [Visuals: Screenshots of IDEs]
-
   - Exploring different IDEs for Python development.
   - Tips and tricks for maximizing productivity in your chosen IDE.
 
@@ -121,18 +99,13 @@ Certainly! Let's add the last part to your script:
 
 📚 **7. Preparations and Assignments: Sharpening Your Python Skills**
 
-- [Visuals: Assignments and code snippets]
-
   - Weekly assignments on each topic covered.
   - Solutions to be updated weekly on my GitHub profile - [Your GitHub Profile](https://github.com/SuccessIsOnTheWay).
 
 ---
 
-[Closing Scene]
 
-🎉 **Thank You for Joining the Python Adventure!** 😊🐍
-
-[Visuals: Encourage viewers to like, share, and subscribe]
+🎉 **Thank You for Joining the PyLearner!** 😊🐍
 
 👍 **Please Like, Share, and Subscribe for More!** 🌐☑️
 
