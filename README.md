@@ -100,7 +100,7 @@
 📚 **7. Preparations and Assignments: Sharpening Your Python Skills**
 
   - Weekly assignments on each topic covered.
-  - Solutions to be updated weekly on my GitHub profile - [Your GitHub Profile](https://github.com/SuccessIsOnTheWay).
+  - Solutions to be updated weekly on my GitHub profile - https://github.com/SuccessIsOnTheWay/Mastering_Python .
 
 ---
 
